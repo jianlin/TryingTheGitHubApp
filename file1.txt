@@ -7,7 +7,7 @@ this is changes to master
 line 02 03
 line 04
 add to master 05
-
+add to master 05 part 02
 
 first file
 
