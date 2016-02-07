@@ -10,6 +10,7 @@ add to master 05
 add to master 05 part 02
 add to master 05 part 03
 master 06 01
+master 06 02
 
 first file
 
