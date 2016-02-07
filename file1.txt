@@ -6,6 +6,8 @@ this is
 this is changes to master
 line 02 03
 line 04
+add to master 05
+
 
 first file
 
@@ -44,4 +46,3 @@ this is for fix02
 this is fix03
 
 this is fix04
-
