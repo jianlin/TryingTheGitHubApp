@@ -56,3 +56,4 @@ this is fix05 part 02
 this is fix05 part 03
 
 this is A node
+this is B node
